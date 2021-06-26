@@ -7,3 +7,4 @@
 
 int foo = 10;
 int blah;
+int foobar = 5;
