@@ -5,5 +5,5 @@
  */
  
 
- int foo = 10;
-
+int foo = 10;
+int blah;
